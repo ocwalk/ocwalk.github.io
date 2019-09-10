@@ -1,0 +1,12 @@
+.idea/*
+.git/*
+target/**
+*/target/**
+project/target/*
+out/.*
+out/*.js
+out/timestamp.txt
+*.class
+
+ignore.json
+ignore.txt
